@@ -1,7 +1,7 @@
 {
   "name": "api",
   "version": "1.0.0",
-  "description": "API desenvolvida para ser utilizada no módulo de consumo de API na trilha de React Native do Ignite.",
+  "description": "gym project",
   "main": "index.js",
   "scripts": {
     "start": "node ./src/server.js",
@@ -9,7 +9,7 @@
     "migrate": "knex migrate:latest",
     "seed": "knex seed:run"
   },
-  "author": "Rodrigo Gonçalves Santana",
+  "author": "Bruno Vieira",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
